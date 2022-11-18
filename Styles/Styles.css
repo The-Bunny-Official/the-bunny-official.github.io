@@ -6,21 +6,26 @@
 }
 .click-image-text{
     display: flex;
-    align-items: center;
+    align-items: right;
 }
 .click-to-show{
     width: 75%;
+    align-items: bottom;
 }
 .click-image{
     inline-size: 10%;
 }
 .click-text{
     inline-size: 90%;
-    margin-left: 1em;
 }
+
+
 a, a:link, a:visited, a:active{
     color: blue;
 }
+
+
+
 .navbar {
     overflow: hidden;
     background-color: black;
