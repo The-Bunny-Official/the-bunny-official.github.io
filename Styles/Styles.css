@@ -9,7 +9,9 @@
 }
 .click-image{
     inline-size: 10%;
+    float: left;
 }
 .click-text{
     inline-size: 90%;
+    float: right;
 }
