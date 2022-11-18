@@ -3,6 +3,7 @@
     text-align: left;
     margin: 5px 5px 5px 5px;
     padding: 2px 2px 2px 2px;
+    border-radius: 3%;
 }
 .click-image-text{
     display: flex;
@@ -18,6 +19,7 @@
 }
 .click-text{
     inline-size: 90%;
+    margin-left: 2px;
 }
 
 
