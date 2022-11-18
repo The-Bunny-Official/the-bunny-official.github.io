@@ -16,18 +16,18 @@
 .click-image{
     inline-size: 10%;
     margin-right: 1px;
+    padding: 1px 1px 1px 1px;
 }
 .click-text{
     inline-size: 90%;
     margin-left: 2px;
+    padding: 1px 1px 1px 1px;
 }
 
 
 a, a:link, a:visited, a:active{
     color: blue;
 }
-
-
 
 .navbar {
     overflow: hidden;
