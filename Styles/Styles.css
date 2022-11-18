@@ -1,7 +1,10 @@
 .click-to-show-click{
     width: 75%;
     text-align: right;
-    margin: 1px 1px 1px 1px;
+    margin: 5px 5px 5px 5px;
+    padding: 2px 2px 2px 2px;
+}
+.click-image-text{
     display: flex;
     align-items: center;
 }
