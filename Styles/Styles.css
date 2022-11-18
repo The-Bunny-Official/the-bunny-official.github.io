@@ -1,13 +1,11 @@
 .click-to-show-click{
     width: 75%;
-    text-align: center;
-    float: center;
+    text-align: right;
     margin: 1px 1px 1px 1px;
 }
 .click-to-show{
     width: 75%;
     text-align: center;
-    float: center;
 }
 .click-image{
     inline-size: 10%;
