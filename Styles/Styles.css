@@ -1,27 +1,31 @@
 .click-to-show-click{
-    width: 75%;
-    text-align: left;
+    width: 30%;
+    text-align: center;
     margin: 5px 5px 5px 5px;
-    padding: 2px 2px 2px 2px;
-    border-radius: 3%;
+    padding: 3px 3px 3px 3px;
+    background-color: darkblue;
+    color: white;
 }
 .click-image-text{
     display: flex;
     align-items: right;
+    text-align: center;
 }
 .click-to-show{
-    width: 75%;
+    width: 25%;
     align-items: bottom;
+    background-color: darkblue;
+    width: 100%;
 }
 .click-image{
-    inline-size: 10%;
+    width: 35%;
     margin-right: 1px;
     padding: 1px 1px 1px 1px;
 }
 .click-text{
-    inline-size: 90%;
     margin-left: 2px;
     padding: 1px 1px 1px 1px;
+    text-align: center;
 }
 
 
