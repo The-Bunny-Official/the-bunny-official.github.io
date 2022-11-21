@@ -41,6 +41,7 @@
         max-width: 300px;
         margin: auto;
         text-align: center;
+        width: 33%;
     }
       
     .title {
@@ -72,6 +73,9 @@
     }
 }
 
+.cards{
+    width: 100%;
+}
 
 a, a:link, a:visited, a:active{
     color: blue;
