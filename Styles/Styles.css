@@ -108,3 +108,9 @@ a, a:link, a:visited, a:active{
     background: #ddd;
     color: black;
 }
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
