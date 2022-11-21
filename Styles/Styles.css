@@ -2,7 +2,6 @@
     .click-to-show-click{
         width: 75%;
         text-align: center;
-        margin: 5px 5px 5px 5px;
         padding: 3px 3px 3px 3px;
         background-color: darkblue;
         color: white;
@@ -20,11 +19,9 @@
     }
     .click-image{
         width: 25%;
-        margin-right: 1px;
         padding: 1px 1px 1px 1px;
     }
     .click-text{
-        margin-left: 2px;
         padding: 1px 1px 1px 1px;
         text-align: center;
     }
@@ -34,7 +31,6 @@
     .click-to-show-click{
         width: 50%;
         text-align: center;
-        margin: 5px 5px 5px 5px;
         padding: 3px 3px 3px 3px;
         background-color: darkblue;
         color: white;
@@ -52,11 +48,9 @@
     }
     .click-image{
         width: 45%;
-        margin-right: 1px;
         padding: 1px 1px 1px 1px;
     }
     .click-text{
-        margin-left: 2px;
         padding: 1px 1px 1px 1px;
         text-align: center;
     }
