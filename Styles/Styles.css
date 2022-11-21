@@ -8,13 +8,13 @@
         border-radius: 5px;
         background-color: black;
         color: white;
-        text-align: center;
+         
       }
       .container {
         padding: 2px 16px;
         background-color: black;
         color: white;
-        text-align: center;
+         
       }
       .card:hover {
         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -31,13 +31,12 @@
         border-radius: 5px;
         background-color: black;
         color: white;
-        text-align: center;
+         
       }
       .container {
         padding: 2px 16px;
         background-color: black;
         color: white;
-        text-align: center;
       }
       .card:hover {
         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -60,7 +59,7 @@ a, a:link, a:visited, a:active{
     float: left;
     display: block;
     color: #f2f2f2;
-    text-align: center;
+     
     padding: 14px 16px;
     text-decoration: none;
 }
