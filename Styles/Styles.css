@@ -4,6 +4,7 @@
         max-width: 300px;
         margin: auto;
         text-align: center;
+        float: left;
       }
       
       .title {
@@ -42,6 +43,8 @@
         margin: auto;
         text-align: center;
         width: 33%;
+        float: left;
+        
     }
       
     .title {
