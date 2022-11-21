@@ -44,7 +44,7 @@
         text-align: center;
         width: 33%;
         float: left;
-        
+
     }
       
     .title {
@@ -75,6 +75,10 @@
     opacity: 0.7;
     }
 }
+.flex-container {
+    display: flex;
+    flex-flow: column wrap;
+  }
 
 .cards{
     width: 100%;
