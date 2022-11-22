@@ -88,10 +88,9 @@
 a, a:link, a:visited, a:active{
     color: blue;
 }
-ul{
+ul, p{
   font-size: 22px;
 }
-
 .navbar {
     overflow: hidden;
     background-color: black;
