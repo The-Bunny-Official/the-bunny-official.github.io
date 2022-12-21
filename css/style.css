@@ -5,7 +5,7 @@ body{
     font-size: 16px;
     line-height: 1.5;
     margin: 0;
-    padding: 1%;
+    padding: 1px;
     text-align: center;
 }
 
@@ -61,20 +61,17 @@ body{
 }
 
 /* Index */
-.center{
-    display: flex;
-    flex-direction: row;
-}
 .center .text h1{
     background: -webkit-linear-gradient(#fffffe, #000000);
     text-shadow:whitesmoke;
-    font-size: 800%;
     text-align: center;
     -moz-background-clip: text;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+@media screen and (min-width: 600px){ .center .text h1{ font-size: 800%; } }
+@media screen and (max-width: 600px){ .center .text h1{ font-size: 400%; } }
 .center .text h2{
     background: -webkit-linear-gradient(#fffffe, #504141b0);
     text-shadow:whitesmoke;
@@ -93,12 +90,6 @@ body{
 }
 
 /* Socials */
-.contact{
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    float: right;
-}
 .contact .text h2{
     background: -webkit-linear-gradient(#fffffe, #504141b0);
     text-shadow:whitesmoke;
@@ -123,12 +114,6 @@ body{
 }
 
 /* WoC */
-.Woc{
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    float: left;
-}
 .Woc .text h2{
     background: -webkit-linear-gradient(#fffffe, #504141b0);
     text-shadow:whitesmoke;
