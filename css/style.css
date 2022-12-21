@@ -6,6 +6,7 @@ body{
     line-height: 1.5;
     margin: 0;
     padding: 1%;
+    text-align: center;
 }
 
 /* Socials */
@@ -72,7 +73,7 @@ body{
     -moz-background-clip: text;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: transparent
+    -webkit-text-fill-color: transparent;
 }
 .center .text h2{
     background: -webkit-linear-gradient(#fffffe, #504141b0);
@@ -89,4 +90,64 @@ body{
     font-size: 125%;
     margin: 0 10%;
     opacity: 80%;
+}
+
+/* Socials */
+.contact{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    float: right;
+}
+.contact .text h2{
+    background: -webkit-linear-gradient(#fffffe, #504141b0);
+    text-shadow:whitesmoke;
+    font-size: 300%;
+    text-align: center;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+.contact .text p{
+    text-align: center;
+    font-size: 125%;
+    margin: 0 10%;
+    opacity: 80%;
+}
+.contact .text img{
+    width: 50px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+}
+
+/* WoC */
+.Woc{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    float: left;
+}
+.Woc .text h2{
+    background: -webkit-linear-gradient(#fffffe, #504141b0);
+    text-shadow:whitesmoke;
+    font-size: 300%;
+    text-align: center;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+.Woc .text p{
+    text-align: center;
+    font-size: 125%;
+    margin: 0 10%;
+    opacity: 80%;
+}
+.Woc .text img{
+    width: 50px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
 }
