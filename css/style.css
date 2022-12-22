@@ -26,7 +26,7 @@ body{
 /* Navigation */
 .menubar{
     border-bottom-color: white;
-    background-color: none;
+    background-color: #111;
     color: white;
     position: fixed;
     width: 100%;
@@ -41,6 +41,7 @@ body{
     width: 30px;
     height: 30px;
     transition: all 0.3s ease;
+    padding: 5px;
 }
 .menubar a{
     float: right;
