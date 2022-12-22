@@ -25,6 +25,7 @@ body{
 
 /* Navigation */
 .menubar{
+    z-index: 100;
     border-bottom-color: white;
     background-color: #111;
     color: white;
