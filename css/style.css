@@ -257,3 +257,33 @@ body{
     height: 60px;
     position: fixed;
 }
+
+/* projects-content */
+.projects-content h2{
+    background: -webkit-linear-gradient(#fffffe, #504141b0);
+    text-shadow:whitesmoke;
+    font-size: 300%;
+    text-align: center;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+.projects-content p{
+    text-align: center;
+    font-size: 125%;
+    margin: 0 10%;
+    opacity: 80%;
+}
+.projects-content a{
+    text-align: center;
+    font-size: 125%;
+    margin: 0 10%;
+    opacity: 80%;
+    background: -webkit-linear-gradient(#fffffe, blue);
+    text-shadow:whitesmoke;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
