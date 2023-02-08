@@ -53,6 +53,15 @@ body{
     padding: 0 20px;
     transition: all 0.3s ease;
 }
+.menubar a:hover{
+    float: right;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 60px;
+    padding: 0 20px;
+    transition: all 0.3s ease;
+}
 .menubar .icon{
     float: left;
     width: 40px;
